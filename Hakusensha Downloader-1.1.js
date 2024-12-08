@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Hakusensha Downloader
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Downloader for Hakusensha.
 // @author       Baconana-chan
 // @match        https://hakusensha.tameshiyo.me/*
